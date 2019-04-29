@@ -1,4 +1,5 @@
 # 181410001
 
-Nama : Andi Alfian <br>
-Kelas : Informatika 2A
+  - Nama : Andi Alfian
+  - Kelas : Informatika 2A
+  - Fakultas : Teknik
