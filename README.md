@@ -1,6 +1,6 @@
 
 # 18.14.1.0001
-``` ruby
+``` php
    Nama : Andi Alfian
    Kelas : 2A
    Prodi : Informatika
