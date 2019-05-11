@@ -6,3 +6,6 @@
    Prodi : Informatika
    Fakultas : Teknik
 ```
+:e-mail: Andialfi90@gmail.com <br>
+:telephone: +6282217414947
+  
