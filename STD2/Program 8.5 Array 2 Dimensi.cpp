@@ -1,4 +1,4 @@
-// Tugas STD2 - Andi Alfian, S.Kom
+// Tugas STD2 - Andi Alfian
 // Contoh pemakaian array berdimensi dua
 // untuk menampung data kelulusan 
 // dari tiga buah jurusan studi untuk 4 tahun
