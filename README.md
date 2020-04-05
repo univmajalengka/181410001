@@ -2,7 +2,7 @@
 # 18.14.1.0001
 ``` php
    Nama : Andi Alfian
-   Kelas : 3A
+   Kelas : 4A
    Prodi : Informatika
    Fakultas : Teknik
 ```
